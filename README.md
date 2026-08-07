@@ -1,3 +1,19 @@
+## Maturity
+
+| Field | Value |
+|---|---|
+| **Status** | Research prototype |
+| **Maturity** | Low |
+| **Field-ready** | No — not clinical, not field-certified |
+| **Last reviewed** | 2026-08-07 |
+
+Archived APTOS 2019 training notebook. Research only — not for clinical use.
+
+
+> **Archived** — superseded by later work. Preserved for reference.
+
+---
+
 # APTOS-DR-GPU v4
 
 GPU-first diabetic retinopathy classification notebook, polished for reproducibility, portfolio quality, and clean Git history.
